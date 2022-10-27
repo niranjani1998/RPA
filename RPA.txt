@@ -1,0 +1,104 @@
+Repetative task handler
+it will create a bots for the process and scheduled in schedular.
+UIpath is a first tool in RPA.
+it is having both community and enterprise tool.
+UI path components:UIPath studio,UI path Robot,UIpath orchestator-cloud platform(it will act as a database ).
+https://cloud.uipath.com/  -install
+two language -VB and C# -it will create the application backend language
+
+for reusable using xaml new file called sequence
+click activity -it will capture the address ,that is also called selector
+
+Alt tab to change the application
+F2
+attach browser-selector will show the whole browser
+
+ctrl+k for creating variable
+temporary activity:meassagebox,writeline
+Assignment:
+login to bookboon application
+after search click the hyperlink and fetch the details
+create one excel with sno,book name,page count,author name,status
+
+fetch the book name from the excel and set the those details
+
+selector:
+activity three line click->open in UI explorer ,it will open another window.
+
+
+create variable in variable part
+array of string with name
+assign array-assign activity in main.xaml
+for each loop-for each activity
+
+navigate activity to url refresh home url should be used in navigate
+
+
+
+
+two types of exception
+1,system or application exception
+2,business exception
+
+workbook operation,excel operation we need excel scope activity
+
+row and column-data table
+
+log message should be done,main function -exception should be right in main page
+pdf download option should be check-linux and maths
+
+string,text,boolean,credential -four type of assests
+
+orchestrator launch through assest.
+queue act like a db,auto retry option-max 3-it is used to reload tthe browser
+
+retriving from queue get transitem=transitem.specificcontent("colum key")
+
+settransaction status:
+
+
+
+Queue :
+Main.xaml
+login
+excel fetch
+adding to loop seperate activity.
+do while loop for getting from queue
+
+
+Dispacher or loader-it will used to add data in queue.
+
+1,lookup range want to set values in excel.
+2,keep one if case for whether excel is exist in path or not.
+3,split the xaml for dispatcher and loader.
+
+
+
+string b= System.Text.RegularExpressions.Regex.Replace(“string_Variable”,"\D","")
+
+
+UI path foundation certification-theory,advance certification-practical -two codde should be uploaded.diploma certification.
+https://acme-test.uipath.com/register
+
+dispacher and performer.
+
+page->workitem->for fst time is empty.
+user option->account reset test data.
+till development it can be 0.
+1,for fst time user -should generate.
+2,10npages workitem should be extract.
+3,type WI5 with status open.->filter it.
+4,queue concept should be update only filter item.
+5,search button-wI5 item should be clicked ,client information detail should be extracted.
+after this go to below website.
+other website.
+http://www.sha1-online.com/
+
+client id-clientname-clent country
+this input should be search in sha1 online website and click hash.
+it will generate one key like result sha1.
+
+go to acme,then click update item,with that comment and change status completed.
+
+data scraping option.
+filterdata table 
